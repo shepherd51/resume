@@ -1,0 +1,18 @@
+# Jekyll Resume Theme
+
+# Site settings
+title: Portfolio
+email: email@domain.com
+description: Man Ng's Portfolio
+baseurl: ""
+url: ""
+name: Man Ng
+job: professional writer and social researcher
+location: Hong Kong
+languages: Cantonese, Chinese and English
+twitter_username:
+github_username:
+email_address: some@email.com
+
+# Build settings
+markdown: kramdown
